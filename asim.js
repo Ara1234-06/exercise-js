@@ -46,7 +46,3 @@ function checkscore(userage) {
   return userage >= 100;
 }
 console.log(filterscore);
-
-let asim = "Asim is a teacher";
-asim = "arafat is a good student";
-console.log(asim);
